@@ -2,4 +2,4 @@ SKY RESOLUSI
 - Test 1
 - Test 2
 - Test Edit 1
-- Test Edit 2
+- Hapus 1
