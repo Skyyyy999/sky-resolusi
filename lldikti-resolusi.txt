@@ -1,0 +1,5 @@
+hai, salam kenal
+ini resolusi saya
+-membuat web toko online menggunakan laravel
+-belajar node js
+-belajar ract js
